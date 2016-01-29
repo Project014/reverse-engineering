@@ -1,0 +1,11 @@
+
+Two switches :
+ - KC : KeyCount  ( default : close )
+ - KE : KeyEnable ( default : open )
+
+When the cursor is moved away from its initial position : KeyEnable is closed.
+When it's released : series of N 'open' pulses on KeyCount.
+N is equal to the selected number, except for zero which is coded as 10 pulses.
+When it reaches its initial position, KeyEnable open again.
+
+Each pulse last ~60ms.

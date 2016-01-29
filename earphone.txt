@@ -1,0 +1,10 @@
+
+
+blue/green : hp
+red        : mic
+white      : gnd
+
+earphone-hp  : 24.8ohms
+earphone-mic : 490omhs
+
+There is an impedance of ~25 + ?*i ohms between the blue and the red wire.    

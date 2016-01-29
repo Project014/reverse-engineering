@@ -1,0 +1,16 @@
+
+Four pins:
+
+-----------
+|C1     C4|
+|         |
+|  C2 C3  |
+-----------
+
+SW1 : C1, C2 :
+  Open  if the phone is picked up
+  Close if the phone is hanged
+
+SW2 : C3, C4 :
+  Open if angry ring off !
+  Enough pressure will open the switch.
