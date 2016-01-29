@@ -1,0 +1,20 @@
+
+There are a couple of mechanical flaps.
+Each flap is maintained in a vertical position by a long piece of metal.
+When the electromagnet is powered, this piece of metal is lifted up and the flap fall.
+
+___________________________  _
+|                        | \/
+|  [-------------------] |
+|> [    Electromagnet  ] |  <-- Flap
+   [-------------------] .
+
+                    ______  _
+________------------      \/
+|
+ | [-------------------]
+ |>[    Electromagnet  ]    ___---
+   [-------------------] .--
+
+There are four wires for each one. They are connected to each other, but internal wiring is unknown.
+They are marked "300 ohms". ~5v is just enough to trigger the flap, so ~17mA is necessary.
