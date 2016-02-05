@@ -1,8 +1,8 @@
 
 
-blue/green : hp
-red        : mic
-white      : gnd
+blue          : hp
+red           : mic
+white/green   : gnd
 
 earphone-hp  : 24.8ohms
 earphone-mic : 490omhs
